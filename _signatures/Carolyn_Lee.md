@@ -2,6 +2,6 @@
   name: Carolyn Lee
   link: 
   affiliation: 
-  occupation_title: 
+  occupation_title: Anaylst
   github: madderhag
-  ---
+---
